@@ -6,3 +6,4 @@
 * Xcode 7.2
 
 ![SS1](https://github.com/yumataesu/resourses/blob/master/BSoD2016/out_00033.jpg)
+![SS2](https://github.com/yumataesu/resourses/blob/master/BSoD2016/out_00457.jpg)
